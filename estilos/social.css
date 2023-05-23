@@ -10,14 +10,13 @@
     height: 0px;
 }
 
-/*função para esconder a BARRA DE ROLAGEM*/
+
 img{
     width: 100vw;
 }
 
 a{
     display: block;
-    /*para que o ACESSE apareça abaixo da imagem*/
     background-color: darkcyan;
     padding: 20px;
     text-align: center;
